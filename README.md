@@ -1,7 +1,6 @@
 # FlipKart-Iphone-Sales-Analysis
 
-Here's a breakdown of what each column might represent:
-
+   # Here's a breakdown of what each column might represent:
 
 Product Name: The name or title of the product.
 
@@ -23,6 +22,7 @@ Upc: Universal Product Code, a unique identifier for the product.
 
 Star Rating: The average star rating of the product based on user reviews.
 
-Ram: This could represent the RAM (Random Access Memory) specification of the product, especially if the products are electronic devices like computers or smartphones.
+Ram: This could represent the RAM (Random Access Memory) specification of the product, 
+especially if the products are electronic devices like computers or smartphones.
 
-This dataset seems to be useful for analyzing product sales, customer reviews, and pricing strategies. 
+-----------------------------------------------------------------------------------------------------------------------------------
